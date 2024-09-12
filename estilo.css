@@ -41,8 +41,21 @@
     font-size: 25px;
 }
 
+.icones{
+    display: flex;
+}
+
+.cont{
+    margin-bottom: 13px;
+    padding-left: 10px;
+}
+
 .fim{
     padding-bottom: 100px;
+}
+
+.work{
+    padding-top: 37px;
 }
 
 h1{
